@@ -41,7 +41,7 @@ public class Main
 		//OUTPUT SECTION
 		System.out.println("╔══════════════════════════════════════════════════════════════════════");
 		System.out.println("║         UNITED STATES OF AMERICA");
-		System.out.println("║                                  EMPLOYMENT AUTHORIZATION CARD");
+		System.out.println("║                                  EMPLOYMENT AUTHORIZATION CARD ");
 		System.out.println("║                       Surname");
 		System.out.println("║                        " + surname );
 		System.out.println("║  .----.    .----.     Given Name");
